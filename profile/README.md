@@ -12,5 +12,8 @@ This started from just learning and messing with the minecraft protocol and rakn
 Then finnally tried to do it on c++ and struggled a bit but eventually got help. Now, I know most people don't care for this stuff but I love it. But it was a pain to try and learn it all and a goal I have is to try and make that easier for everyone.
 And that's by all means, I'll try to answer questions the best I can; I plan to make in depth docs on how things work in this software, raknet and minecraft protocol. Kinda all the above. I'll try to document my finding along the way.
 
+### How is development going?
+Development is going great! Progress and everything can be found in our [Project](https://github.com/orgs/LavishMC/projects/1)
+
 ### Credits
 Most everything was coded by me *except for the cloned repos ofc* but some credit goes to [vp817](https://github.com/vp817) with his help on setting things up along with his software [AllayBE](https://github.com/AllayBE/AllayBE) for being a huge reference for this.
