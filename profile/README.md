@@ -1,5 +1,5 @@
 # LavishMC
-[![Our Discord](https://img.shields.io/discord/222078108977594368?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/DzWfbQtpc6)
+[![Our Discord](https://img.shields.io/discord/1191510011961147484?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/DzWfbQtpc6)
 
 The New Up and Coming MCBE Server Software!
 
