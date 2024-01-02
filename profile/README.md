@@ -1,7 +1,9 @@
 # LavishMC
-[![Our Discord](https://img.shields.io/discord/1191510011961147484?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/DzWfbQtpc6)
+The New Up and Coming MCBE Server Software & more!
 
-The New Up and Coming MCBE Server Software!
+[![LavishMC Discord](https://img.shields.io/discord/1191510011961147484?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/DzWfbQtpc6)
+
+[![Sponsors](https://img.shields.io/github/sponsors/LavishMC)](https://github.com/sponsors/LavishMC)
 
 ### Why are we here?
 This was started by MisledWater79(Me), I started this to learn more about minecraft and to try and surpas other softwares that are bulky, slow, outdated, lack of features etc.
